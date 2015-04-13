@@ -8,11 +8,15 @@ Service based on three modules
 - Getting data from user. One question - one answer: Are your crops healthy? Yes/No - if No, then enter pest/disease data.
 - Pest/Disease knowledge database. Information about pest/disease, photos, recommendations on protection.
 
+![ScreenShot](Screens/cropcare-presentation-1.png)
+
+![ScreenShot](Screens/cropcare-presentation-2.png)
+
 
 ## Crop Care android applicaton
 APK for installing application
 https://drive.google.com/a/cloud4land.com/file/d/0ByFCvYaUtYxXZThPS0NQTDJSMTg/view?usp=sharing
-
+Sources of mobile application: https://bitbucket.org/Forsety/crop-care-android/
 
 ## Crop Care API server 
 
